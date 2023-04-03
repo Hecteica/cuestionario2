@@ -593,7 +593,7 @@ let questions = [
       },
       {
         numb: 55,
-        question:"Cual de las siguientes estaciones tiene parking disuasorio de pago",
+        question:"¿Cuál de las siguientes estaciones tiene correspondencia con las líneas 1, 2 y 3 de Metro de Madrid?",
         answer: 'Sol',
         options: [
             'Gran Vía',
